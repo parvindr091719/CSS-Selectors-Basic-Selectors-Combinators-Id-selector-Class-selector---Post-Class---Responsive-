@@ -69,7 +69,7 @@ section{
     padding-top: 1rem;
     padding-bottom: 1rem;
     padding-left: 0.5rem;
-    padding-right: 0.5rem;
+    padding-right: 00.5rem;
 }
 .skill-name{
     font-size: 0.65rem;
@@ -95,7 +95,7 @@ section{
     padding: 00.5rem;
     letter-spacing: 1px;
 }
-@media screen and (max-width: 674px) {
+@media screen and (max-width: 673px) {
 .main-content {
     grid-template-columns: repeat(1,1fr);
 }
